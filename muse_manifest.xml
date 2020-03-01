@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1583043916053">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1583045413782">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="3839803189" ref="contacts:index:company:portfolio:assembling:services"/>
-    <file name="contacts.css" crc="3810626494" ref="contacts"/>
-    <file name="index.css" crc="3786074258" ref="index"/>
-    <file name="company.css" crc="330511365" ref="company"/>
-    <file name="portfolio.css" crc="468773615" ref="portfolio"/>
-    <file name="assembling.css" crc="411585687" ref="assembling"/>
-    <file name="services.css" crc="468773615" ref="services"/>
+    <file name="contacts.css" crc="4281973865" ref="contacts"/>
+    <file name="index.css" crc="226073927" ref="index"/>
+    <file name="company.css" crc="4196592500" ref="company"/>
+    <file name="portfolio.css" crc="128560429" ref="portfolio"/>
+    <file name="assembling.css" crc="3938555687" ref="assembling"/>
+    <file name="services.css" crc="128560429" ref="services"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:company:services:portfolio:contacts:assembling"/>
@@ -45,10 +45,10 @@
       <caption webpage="services" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="475295836" seo="true" mt="1583043907604" redirect="true"/>
-  <file name="company.html" crc="3820769458" seo="true" mt="1583043907604" redirect="true"/>
-  <file name="services.html" crc="4032849734" seo="true" mt="1583043907604" redirect="true"/>
-  <file name="portfolio.html" crc="149391742" seo="true" mt="1583043907604" redirect="true"/>
-  <file name="contacts.html" crc="394347618" seo="true" mt="1583043907604" redirect="true"/>
-  <file name="assembling.html" crc="4035197011" seo="true" mt="1583043907604" redirect="true"/>
+  <file name="index.html" crc="63847702" seo="true" mt="1583045398103" redirect="true"/>
+  <file name="company.html" crc="63846760" seo="true" mt="1583045398103" redirect="true"/>
+  <file name="services.html" crc="521723471" seo="true" mt="1583045398103" redirect="true"/>
+  <file name="portfolio.html" crc="3885969527" seo="true" mt="1583045398103" redirect="true"/>
+  <file name="contacts.html" crc="43239432" seo="true" mt="1583045398103" redirect="true"/>
+  <file name="assembling.html" crc="3914649969" seo="true" mt="1583045398103" redirect="true"/>
 </manifest>
