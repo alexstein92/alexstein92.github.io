@@ -1,24 +1,25 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1583045413782">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1583047566829">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="3839803189" ref="contacts:index:company:portfolio:assembling:services"/>
-    <file name="contacts.css" crc="4281973865" ref="contacts"/>
-    <file name="index.css" crc="226073927" ref="index"/>
-    <file name="company.css" crc="4196592500" ref="company"/>
-    <file name="portfolio.css" crc="128560429" ref="portfolio"/>
-    <file name="assembling.css" crc="3938555687" ref="assembling"/>
-    <file name="services.css" crc="128560429" ref="services"/>
+    <file name="master_______-a.css" crc="205459838" ref="contacts:index:company:portfolio:assembling:services:itp"/>
+    <file name="contacts.css" crc="165199029" ref="contacts"/>
+    <file name="index.css" crc="394538589" ref="index"/>
+    <file name="company.css" crc="3869805199" ref="company"/>
+    <file name="portfolio.css" crc="354449091" ref="portfolio"/>
+    <file name="assembling.css" crc="249822896" ref="assembling"/>
+    <file name="services.css" crc="354449091" ref="services"/>
+    <file name="itp.css" crc="4238969920" ref="itp"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:company:services:portfolio:contacts:assembling"/>
-    <file name="museutils.js" crc="3803043152" ref="index:company:services:portfolio:contacts:assembling"/>
-    <file name="whatinput.js" crc="86476730" ref="index:company:services:portfolio:contacts:assembling"/>
-    <file name="museconfig.js" crc="380897831" ref="index:company:services:portfolio:contacts:assembling"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:company:services:portfolio:contacts:assembling"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:company:services:portfolio:contacts:assembling"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:company:services:portfolio:contacts:assembling"/>
-    <file name="require.js" crc="4157109226" ref="index:company:services:portfolio:contacts:assembling"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:company:services:portfolio:contacts:assembling:itp"/>
+    <file name="museutils.js" crc="3803043152" ref="index:company:services:portfolio:contacts:assembling:itp"/>
+    <file name="whatinput.js" crc="86476730" ref="index:company:services:portfolio:contacts:assembling:itp"/>
+    <file name="museconfig.js" crc="380897831" ref="index:company:services:portfolio:contacts:assembling:itp"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:itp"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:company:services:portfolio:contacts:assembling:itp"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:company:services:portfolio:contacts:assembling:itp"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:company:services:portfolio:contacts:assembling:itp"/>
+    <file name="require.js" crc="4157109226" ref="index:company:services:portfolio:contacts:assembling:itp"/>
   </folder>
   <folder name="images">
     <file name="logo_v2.png" crc="3874348862" ref="index">
@@ -36,19 +37,30 @@
     <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fone_blue_128_70.jpg" crc="3773365552" ref="index:company:services:portfolio:contacts:assembling">
-      <caption webpage="index" alt=""/>
-      <caption webpage="assembling" alt=""/>
+    <file name="fone_blue_128_70.jpg" crc="3773365552" ref="index:company:services:portfolio:contacts:assembling:itp">
       <caption webpage="company" alt=""/>
-      <caption webpage="contacts" alt=""/>
+      <caption webpage="assembling" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="монтаж,-ремонт-и-реконструкция-тепловых-пунктов" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="itp" alt=""/>
       <caption webpage="services" alt=""/>
     </file>
+    <file name="schema_itp_03.png" crc="156882997" ref="itp">
+      <caption webpage="itp" alt=""/>
+      <caption webpage="монтаж,-ремонт-и-реконструкция-тепловых-пунктов" alt=""/>
+    </file>
+    <file name="map.jpg" crc="4206680437" ref="itp">
+      <caption webpage="itp" alt=""/>
+      <caption webpage="монтаж,-ремонт-и-реконструкция-тепловых-пунктов" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="63847702" seo="true" mt="1583045398103" redirect="true"/>
-  <file name="company.html" crc="63846760" seo="true" mt="1583045398103" redirect="true"/>
-  <file name="services.html" crc="521723471" seo="true" mt="1583045398103" redirect="true"/>
-  <file name="portfolio.html" crc="3885969527" seo="true" mt="1583045398103" redirect="true"/>
-  <file name="contacts.html" crc="43239432" seo="true" mt="1583045398103" redirect="true"/>
-  <file name="assembling.html" crc="3914649969" seo="true" mt="1583045398103" redirect="true"/>
+  <file name="index.html" crc="522354241" seo="true" mt="1583047521337" redirect="true"/>
+  <file name="company.html" crc="3836526022" seo="true" mt="1583047521337" redirect="true"/>
+  <file name="services.html" crc="82050854" seo="true" mt="1583047521337" redirect="true"/>
+  <file name="portfolio.html" crc="4243002443" seo="true" mt="1583047521337" redirect="true"/>
+  <file name="contacts.html" crc="3885167372" seo="true" mt="1583047521337" redirect="true"/>
+  <file name="assembling.html" crc="148975065" seo="true" mt="1583047521337" redirect="true"/>
+  <file name="itp.html" crc="471192945" seo="true" mt="1583047521340" redirect="true"/>
 </manifest>
