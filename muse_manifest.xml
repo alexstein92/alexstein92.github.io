@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1583381799241">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1583383787043">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="527113621" ref="index"/>
-    <file name="contacts.css" crc="3941012636" ref="contacts"/>
-    <file name="company.css" crc="100756752" ref="company"/>
-    <file name="portfolio.css" crc="527113621" ref="portfolio"/>
-    <file name="assembling.css" crc="461457362" ref="assembling"/>
-    <file name="services.css" crc="527113621" ref="services"/>
-    <file name="itp.css" crc="186385246" ref="itp"/>
-    <file name="project.css" crc="197940352" ref="project"/>
-    <file name="master_sch-a.css" crc="465325233" ref="project:contacts:company:assembling:services:index:itp:portfolio"/>
+    <file name="index.css" crc="3856437889" ref="index"/>
+    <file name="contacts.css" crc="4270856339" ref="contacts"/>
+    <file name="company.css" crc="499289744" ref="company"/>
+    <file name="portfolio.css" crc="3856437889" ref="portfolio"/>
+    <file name="assembling.css" crc="4018263416" ref="assembling"/>
+    <file name="services.css" crc="3856437889" ref="services"/>
+    <file name="itp.css" crc="174420072" ref="itp"/>
+    <file name="project.css" crc="4182565206" ref="project"/>
+    <file name="master_sch-a.css" crc="33406866" ref="project:contacts:company:assembling:services:index:itp:portfolio"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:company:services:portfolio:contacts:assembling:itp:project"/>
@@ -53,20 +53,20 @@
       <caption webpage="contacts" alt=""/>
     </file>
     <file name="fone_blue_128_70.jpg" crc="3773365552" ref="index:company:services:portfolio:contacts:assembling:itp:project">
-      <caption webpage="contacts" alt=""/>
+      <caption webpage="услуги" alt=""/>
       <caption webpage="project" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="монтаж-и-ремонт-инженерных-систем" alt=""/>
       <caption webpage="проектирование-инженерных-систем" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="монтаж-и-ремонт-инженерных-систем" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="company" alt=""/>
       <caption webpage="портфолио" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="услуги" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="о-компании" alt=""/>
-      <caption webpage="контакты" alt=""/>
     </file>
     <file name="schema_itp_03.png" crc="156882997" ref="itp">
       <caption webpage="itp" alt=""/>
@@ -82,12 +82,12 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4063496336" seo="true" mt="1583316136289" redirect="true"/>
-  <file name="company.html" crc="3777829366" seo="true" mt="1583316136289" redirect="true"/>
-  <file name="services.html" crc="4205270312" seo="true" mt="1583316136289" redirect="true"/>
-  <file name="portfolio.html" crc="408333294" seo="true" mt="1583316136289" redirect="true"/>
-  <file name="contacts.html" crc="409481094" seo="true" mt="1583316136289" redirect="true"/>
-  <file name="assembling.html" crc="3895918854" seo="true" mt="1583316136289" redirect="true"/>
-  <file name="itp.html" crc="398942865" seo="true" mt="1583316136289" redirect="true"/>
-  <file name="project.html" crc="4181667726" seo="true" mt="1583381780493" redirect="true"/>
+  <file name="index.html" crc="4283785209" seo="true" mt="1583383763990" redirect="true"/>
+  <file name="company.html" crc="208043186" seo="true" mt="1583383763990" redirect="true"/>
+  <file name="services.html" crc="195480705" seo="true" mt="1583383763990" redirect="true"/>
+  <file name="portfolio.html" crc="88103284" seo="true" mt="1583383763990" redirect="true"/>
+  <file name="contacts.html" crc="405930789" seo="true" mt="1583383763990" redirect="true"/>
+  <file name="assembling.html" crc="462316808" seo="true" mt="1583383763990" redirect="true"/>
+  <file name="itp.html" crc="4065330732" seo="true" mt="1583383763990" redirect="true"/>
+  <file name="project.html" crc="4010273199" seo="true" mt="1583383763990" redirect="true"/>
 </manifest>
