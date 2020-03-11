@@ -1,22 +1,22 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1583900017828">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1583901350747">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3920816960" ref="index"/>
     <file name="contacts.css" crc="4254910901" ref="contacts"/>
     <file name="company.css" crc="270388559" ref="company"/>
     <file name="portfolio.css" crc="3920816960" ref="portfolio"/>
-    <file name="assembling.css" crc="231963420" ref="assembling"/>
+    <file name="assembling.css" crc="39031408" ref="assembling"/>
     <file name="services.css" crc="4532446" ref="services"/>
     <file name="itp.css" crc="4174052549" ref="itp"/>
     <file name="project.css" crc="269084059" ref="project"/>
-    <file name="master_sch-a.css" crc="81549771" ref="project:contacts:company:assembling:services:index:itp:portfolio"/>
+    <file name="master_sch-a.css" crc="3952978981" ref="project:contacts:company:assembling:services:index:itp:portfolio"/>
     <file name="nomq_preview_master_sch-a.css" crc="4121370660" ref="index:project:contacts:company:portfolio:assembling:services:itp"/>
     <file name="nomq_index.css" crc="4128710731" ref="index"/>
     <file name="nomq_project.css" crc="3784398953" ref="project"/>
     <file name="nomq_contacts.css" crc="159520301" ref="contacts"/>
     <file name="nomq_company.css" crc="55215340" ref="company"/>
     <file name="nomq_portfolio.css" crc="4128710731" ref="portfolio"/>
-    <file name="nomq_assembling.css" crc="201952694" ref="assembling"/>
+    <file name="nomq_assembling.css" crc="526958619" ref="assembling"/>
     <file name="nomq_services.css" crc="3787538604" ref="services"/>
     <file name="nomq_itp.css" crc="4221915996" ref="itp"/>
   </folder>
@@ -132,60 +132,50 @@
       <caption webpage="company" alt=""/>
     </file>
     <file name="fone_blue_128_70.jpg" crc="3773365552" ref="index:company:services:portfolio:contacts:assembling:itp:project">
-      <caption webpage="услуги" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="контакты" alt=""/>
       <caption webpage="портфолио" alt=""/>
-      <caption webpage="о-компании" alt=""/>
       <caption webpage="монтаж-и-ремонт-инженерных-систем" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="контакты" alt=""/>
       <caption webpage="проектирование-инженерных-систем" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="itp" alt=""/>
       <caption webpage="itp" alt=""/>
       <caption webpage="itp" alt=""/>
@@ -194,6 +184,16 @@
       <caption webpage="itp" alt=""/>
       <caption webpage="itp" alt=""/>
       <caption webpage="itp" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="company" alt=""/>
       <caption webpage="company" alt=""/>
       <caption webpage="company" alt=""/>
@@ -235,7 +235,7 @@
   <file name="services.html" crc="276546637" seo="true" mt="1583894429790" redirect="true"/>
   <file name="portfolio.html" crc="365719034" seo="true" mt="1583894429790" redirect="true"/>
   <file name="contacts.html" crc="3947649075" seo="true" mt="1583894429790" redirect="true"/>
-  <file name="assembling.html" crc="4105288130" seo="true" mt="1583899992553" redirect="true"/>
+  <file name="assembling.html" crc="3913007741" seo="true" mt="1583901325313" redirect="true"/>
   <file name="itp.html" crc="4114372075" seo="true" mt="1583894429790" redirect="true"/>
   <file name="project.html" crc="4151157862" seo="true" mt="1583894429790" redirect="true"/>
 </manifest>
