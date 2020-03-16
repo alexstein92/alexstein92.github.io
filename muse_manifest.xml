@@ -1,35 +1,35 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1584091315144">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1584354819273">
   <folder name="css">
-    <file name="site_global.css" crc="108220938"/>
-    <file name="index.css" crc="201567899" ref="index"/>
-    <file name="contacts.css" crc="275419466" ref="contacts"/>
-    <file name="company.css" crc="3874371125" ref="company"/>
-    <file name="portfolio.css" crc="140094574" ref="portfolio"/>
-    <file name="assembling.css" crc="4077654693" ref="assembling"/>
-    <file name="services.css" crc="4056122069" ref="services"/>
-    <file name="itp.css" crc="520791406" ref="itp"/>
-    <file name="project.css" crc="147820641" ref="project"/>
-    <file name="master_sch-a.css" crc="4168813329" ref="project:contacts:company:assembling:services:index:itp:portfolio:naruzh:vnutr"/>
-    <file name="nomq_preview_master_sch-a.css" crc="355315181" ref="index:project:contacts:company:portfolio:assembling:services:itp:naruzh:vnutr"/>
-    <file name="nomq_index.css" crc="262985023" ref="index"/>
-    <file name="nomq_project.css" crc="3879525255" ref="project"/>
-    <file name="nomq_contacts.css" crc="292605398" ref="contacts"/>
-    <file name="nomq_company.css" crc="3911327802" ref="company"/>
-    <file name="nomq_portfolio.css" crc="3980453644" ref="portfolio"/>
-    <file name="nomq_assembling.css" crc="4199578776" ref="assembling"/>
-    <file name="nomq_services.css" crc="81529352" ref="services"/>
-    <file name="nomq_itp.css" crc="4046514221" ref="itp"/>
-    <file name="naruzh.css" crc="4144197856" ref="naruzh"/>
-    <file name="nomq_naruzh.css" crc="3906237717" ref="naruzh"/>
-    <file name="vnutr.css" crc="4156120256" ref="vnutr"/>
-    <file name="nomq_vnutr.css" crc="4207291068" ref="vnutr"/>
+    <file name="site_global.css" crc="4285792329"/>
+    <file name="index.css" crc="3836234243" ref="index"/>
+    <file name="contacts.css" crc="3993815864" ref="contacts"/>
+    <file name="company.css" crc="408617395" ref="company"/>
+    <file name="portfolio.css" crc="4231876687" ref="portfolio"/>
+    <file name="assembling.css" crc="4180688822" ref="assembling"/>
+    <file name="services.css" crc="4032523649" ref="services"/>
+    <file name="itp.css" crc="17304974" ref="itp"/>
+    <file name="project.css" crc="484564053" ref="project"/>
+    <file name="master_sch-a.css" crc="4048812517" ref="project:contacts:company:assembling:services:index:itp:portfolio:naruzh:vnutr"/>
+    <file name="nomq_preview_master_sch-a.css" crc="4144122351" ref="index:project:contacts:company:portfolio:assembling:services:itp:naruzh:vnutr"/>
+    <file name="nomq_index.css" crc="3895329305" ref="index"/>
+    <file name="nomq_project.css" crc="4206142744" ref="project"/>
+    <file name="nomq_contacts.css" crc="3840621" ref="contacts"/>
+    <file name="nomq_company.css" crc="25162620" ref="company"/>
+    <file name="nomq_portfolio.css" crc="4107368338" ref="portfolio"/>
+    <file name="nomq_assembling.css" crc="4142638952" ref="assembling"/>
+    <file name="nomq_services.css" crc="181978461" ref="services"/>
+    <file name="nomq_itp.css" crc="3947253149" ref="itp"/>
+    <file name="naruzh.css" crc="226992621" ref="naruzh"/>
+    <file name="nomq_naruzh.css" crc="73588857" ref="naruzh"/>
+    <file name="vnutr.css" crc="143257151" ref="vnutr"/>
+    <file name="nomq_vnutr.css" crc="476233612" ref="vnutr"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:naruzh"/>
     <file name="museutils.js" crc="3803043152" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:naruzh"/>
     <file name="whatinput.js" crc="86476730" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:naruzh"/>
     <file name="museconfig.js" crc="380897831" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:naruzh"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:itp:project:portfolio:company"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:itp:project:portfolio:services:naruzh"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:naruzh"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:naruzh"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:naruzh"/>
@@ -41,7 +41,57 @@
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:naruzh"/>
   </folder>
   <folder name="images">
-    <file name="logo_v2.png" crc="3874348862" ref="index:portfolio:company">
+    <file name="logo_v2.png" crc="3874348862" ref="index:portfolio:naruzh">
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -52,54 +102,55 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="contacts" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
     </file>
-    <file name="clock_2.png" crc="453181552" ref="index:portfolio:company">
+    <file name="clock_2.png" crc="453181552" ref="index:portfolio:naruzh">
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -108,41 +159,53 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="contacts" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
     </file>
-    <file name="phone_2.png" crc="3782065018" ref="index:portfolio:company">
+    <file name="phone_2.png" crc="3782065018" ref="index:portfolio:naruzh">
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -151,41 +214,53 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="contacts" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
     </file>
-    <file name="postion_2.png" crc="204371497" ref="index:portfolio:company">
+    <file name="postion_2.png" crc="204371497" ref="index:portfolio:naruzh">
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -194,152 +269,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="contacts" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
     </file>
     <file name="fone_blue_128_70.jpg" crc="3773365552" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:naruzh">
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="assembling" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="о-компании" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="vnutr" alt=""/>
-      <caption webpage="vnutr" alt=""/>
-      <caption webpage="vnutr" alt=""/>
-      <caption webpage="vnutr" alt=""/>
-      <caption webpage="vnutr" alt=""/>
-      <caption webpage="vnutr" alt=""/>
-      <caption webpage="vnutr" alt=""/>
-      <caption webpage="vnutr" alt=""/>
-      <caption webpage="vnutr" alt=""/>
-      <caption webpage="проектирование-инженерных-систем" alt=""/>
       <caption webpage="портфолио" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="услуги" alt=""/>
       <caption webpage="contacts" alt=""/>
       <caption webpage="contacts" alt=""/>
       <caption webpage="contacts" alt=""/>
@@ -354,17 +295,117 @@
       <caption webpage="contacts" alt=""/>
       <caption webpage="contacts" alt=""/>
       <caption webpage="contacts" alt=""/>
-      <caption webpage="контакты" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="assembling" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="проектирование-инженерных-систем" alt=""/>
       <caption webpage="монтаж-и-ремонт-инженерных-систем" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="контакты" alt=""/>
+      <caption webpage="vnutr" alt=""/>
+      <caption webpage="vnutr" alt=""/>
+      <caption webpage="vnutr" alt=""/>
+      <caption webpage="vnutr" alt=""/>
+      <caption webpage="vnutr" alt=""/>
+      <caption webpage="vnutr" alt=""/>
+      <caption webpage="vnutr" alt=""/>
+      <caption webpage="vnutr" alt=""/>
+      <caption webpage="vnutr" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
     </file>
     <file name="schema_itp_03.png" crc="156882997" ref="itp">
       <caption webpage="itp" alt=""/>
@@ -383,35 +424,106 @@
       <caption webpage="itp" alt=""/>
     </file>
     <file name="1общие данные уут-966-1_тит.jpg" crc="107015330" ref="project">
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
       <caption webpage="проектирование-инженерных-систем" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
     </file>
     <file name="schema_itp_03-u11813-fr.png" crc="4111682425" ref="itp"/>
     <file name="map-u14462-fr.jpg" crc="4113010139" ref="itp"/>
     <file name="schema_itp_03-u11813-fr2.png" crc="4259397902" ref="itp"/>
     <file name="map-u14462-fr2.jpg" crc="4013203323" ref="itp"/>
+    <file name="montage_remont_is.jpg" crc="101226775" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="montage_remont_itp.jpg" crc="442059181" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="ads.jpg" crc="4234536653" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="ozp.jpg" crc="3929611327" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="poverka.jpg" crc="530130011" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="service.jpg" crc="424932925" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="project.jpg" crc="3875351214" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="montage_remont_is-u32440-fr.jpg" crc="3864536119" ref="services"/>
+    <file name="montage_remont_itp-u66405-fr.jpg" crc="18306654" ref="services"/>
+    <file name="ads-u66477-fr.jpg" crc="3912232136" ref="services"/>
+    <file name="ozp-u66550-fr.jpg" crc="178228480" ref="services"/>
+    <file name="poverka-u66623-fr.jpg" crc="3884518158" ref="services"/>
+    <file name="service-u66705-fr.jpg" crc="3934774275" ref="services"/>
+    <file name="project-u66777-fr.jpg" crc="386359767" ref="services"/>
+    <file name="montage_remont_is-u32440-fr2.jpg" crc="449994220" ref="services"/>
+    <file name="montage_remont_itp-u66405-fr2.jpg" crc="477851588" ref="services"/>
+    <file name="ads-u66477-fr2.jpg" crc="169634257" ref="services"/>
+    <file name="ozp-u66550-fr2.jpg" crc="270148491" ref="services"/>
+    <file name="poverka-u66623-fr2.jpg" crc="10731676" ref="services"/>
+    <file name="service-u66705-fr2.jpg" crc="111852772" ref="services"/>
+    <file name="project-u66777-fr2.jpg" crc="3953378995" ref="services"/>
+    <file name="montage_remont_is-u32440-fr3.jpg" crc="527794833" ref="services"/>
+    <file name="montage_remont_itp-u66405-fr3.jpg" crc="4030114128" ref="services"/>
+    <file name="ads-u66477-fr3.jpg" crc="4239983387" ref="services"/>
+    <file name="ozp-u66550-fr3.jpg" crc="423323290" ref="services"/>
+    <file name="poverka-u66623-fr3.jpg" crc="181028811" ref="services"/>
+    <file name="project-u66777-fr3.jpg" crc="4249437928" ref="services"/>
+    <file name="service-u66705-fr3.jpg" crc="4147270228" ref="services"/>
+    <file name="montage_remont_is-u32440-fr4.jpg" crc="3783459190" ref="services"/>
+    <file name="montage_remont_itp-u66405-fr4.jpg" crc="3966068322" ref="services"/>
+    <file name="ads-u66477-fr4.jpg" crc="3767045675" ref="services"/>
+    <file name="ozp-u66550-fr4.jpg" crc="4196979131" ref="services"/>
+    <file name="poverka-u66623-fr4.jpg" crc="3979107673" ref="services"/>
+    <file name="service-u66705-fr4.jpg" crc="3998532845" ref="services"/>
+    <file name="project-u66777-fr4.jpg" crc="4030069773" ref="services"/>
+    <file name="montage_remont_is-u32440-fr5.jpg" crc="4193567038" ref="services"/>
+    <file name="montage_remont_itp-u66405-fr5.jpg" crc="215145939" ref="services"/>
+    <file name="ads-u66477-fr5.jpg" crc="327924644" ref="services"/>
+    <file name="ozp-u66550-fr5.jpg" crc="157210655" ref="services"/>
+    <file name="poverka-u66623-fr5.jpg" crc="206505549" ref="services"/>
+    <file name="service-u66705-fr5.jpg" crc="4229666211" ref="services"/>
+    <file name="project-u66777-fr5.jpg" crc="3763662189" ref="services"/>
+    <file name="project-u66777-fr6.jpg" crc="301466623" ref="services"/>
   </folder>
-  <file name="index.html" crc="4015934483" seo="true" mt="1584088822927" redirect="true"/>
-  <file name="company.html" crc="4249171449" seo="true" mt="1584088658928" redirect="true"/>
-  <file name="services.html" crc="4259007618" seo="true" mt="1584089180068" redirect="true"/>
-  <file name="portfolio.html" crc="4005825324" seo="true" mt="1584088658928" redirect="true"/>
-  <file name="contacts.html" crc="352058950" seo="true" mt="1584088658928" redirect="true"/>
-  <file name="assembling.html" crc="258714413" seo="true" mt="1584091133847" redirect="true"/>
-  <file name="itp.html" crc="4014516776" seo="true" mt="1584088658928" redirect="true"/>
-  <file name="project.html" crc="361212305" seo="true" mt="1584088658928" redirect="true"/>
-  <file name="vnutr.html" crc="4128395888" seo="true" mt="1584088658928" redirect="true"/>
-  <file name="naruzh.html" crc="4167280838" seo="true" mt="1584088658928" redirect="true"/>
+  <file name="index.html" crc="3815696466" seo="true" mt="1584349378486" redirect="true"/>
+  <file name="company.html" crc="3953392767" seo="true" mt="1584349378486" redirect="true"/>
+  <file name="services.html" crc="345821210" seo="true" mt="1584354341162" redirect="true"/>
+  <file name="portfolio.html" crc="4141709581" seo="true" mt="1584349378486" redirect="true"/>
+  <file name="contacts.html" crc="4171769472" seo="true" mt="1584349378486" redirect="true"/>
+  <file name="assembling.html" crc="3870854335" seo="true" mt="1584354207583" redirect="true"/>
+  <file name="itp.html" crc="4259305867" seo="true" mt="1584349378486" redirect="true"/>
+  <file name="project.html" crc="3885941686" seo="true" mt="1584349378486" redirect="true"/>
+  <file name="vnutr.html" crc="454183277" seo="true" mt="1584349378486" redirect="true"/>
+  <file name="naruzh.html" crc="415762184" seo="true" mt="1584349378486" redirect="true"/>
 </manifest>
