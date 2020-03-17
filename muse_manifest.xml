@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1584436620302">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1584437043114">
   <folder name="css">
     <file name="site_global.css" crc="43173390"/>
     <file name="index.css" crc="3836234243" ref="index"/>
     <file name="contacts.css" crc="3993815864" ref="contacts"/>
     <file name="company.css" crc="408617395" ref="company"/>
     <file name="portfolio.css" crc="4231876687" ref="portfolio"/>
-    <file name="assembling.css" crc="3761475896" ref="assembling"/>
+    <file name="assembling.css" crc="126416930" ref="assembling"/>
     <file name="services.css" crc="4032523649" ref="services"/>
     <file name="itp.css" crc="17304974" ref="itp"/>
     <file name="project.css" crc="484564053" ref="project"/>
@@ -252,20 +252,6 @@
       <caption webpage="company" alt=""/>
     </file>
     <file name="fone_blue_128_70.jpg" crc="3773365552" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:naruzh">
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
       <caption webpage="vnutr" alt=""/>
       <caption webpage="vnutr" alt=""/>
       <caption webpage="vnutr" alt=""/>
@@ -275,21 +261,21 @@
       <caption webpage="vnutr" alt=""/>
       <caption webpage="vnutr" alt=""/>
       <caption webpage="vnutr" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
       <caption webpage="монтаж-и-ремонт-инженерных-систем" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -299,8 +285,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="о-компании" alt=""/>
-      <caption webpage="контакты" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
       <caption webpage="assembling" alt=""/>
       <caption webpage="assembling" alt=""/>
       <caption webpage="assembling" alt=""/>
@@ -310,65 +308,65 @@
       <caption webpage="assembling" alt=""/>
       <caption webpage="assembling" alt=""/>
       <caption webpage="assembling" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="naruzh" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="услуги" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="портфолио" alt=""/>
       <caption webpage="проектирование-инженерных-систем" alt=""/>
+      <caption webpage="портфолио" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="naruzh" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
       <caption webpage="company" alt=""/>
       <caption webpage="company" alt=""/>
       <caption webpage="company" alt=""/>
@@ -378,6 +376,8 @@
       <caption webpage="company" alt=""/>
       <caption webpage="company" alt=""/>
       <caption webpage="company" alt=""/>
+      <caption webpage="услуги" alt=""/>
+      <caption webpage="контакты" alt=""/>
     </file>
     <file name="schema_itp_03.png" crc="156882997" ref="itp">
       <caption webpage="itp" alt=""/>
@@ -493,7 +493,7 @@
   <file name="services.html" crc="345821210" seo="true" mt="1584354341162" redirect="true"/>
   <file name="portfolio.html" crc="4141709581" seo="true" mt="1584349378486" redirect="true"/>
   <file name="contacts.html" crc="4171769472" seo="true" mt="1584349378486" redirect="true"/>
-  <file name="assembling.html" crc="3820001599" seo="true" mt="1584436583827" redirect="true"/>
+  <file name="assembling.html" crc="469954010" seo="true" mt="1584436991207" redirect="true"/>
   <file name="itp.html" crc="4259305867" seo="true" mt="1584349378486" redirect="true"/>
   <file name="project.html" crc="3885941686" seo="true" mt="1584349378486" redirect="true"/>
   <file name="vnutr.html" crc="454183277" seo="true" mt="1584349378486" redirect="true"/>
