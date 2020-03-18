@@ -11,18 +11,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.museresponsive.js", "require.js", "assembling.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.museresponsive.js", "require.js", "assembling.css"], "outOfDate":[]};
 </script>
   
   <title>ГК &quot;Эталон&quot; - Монтаж и ремонт инженерных коммуникаций</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=43173390"/>
-  <link rel="stylesheet" type="text/css" href="css/master_sch-a.css?crc=3995249578"/>
-  <link rel="stylesheet" type="text/css" href="css/assembling.css?crc=3864549217" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_sch-a.css?crc=3984060520"/>
+  <link rel="stylesheet" type="text/css" href="css/assembling.css?crc=2149644" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_sch-a.css?crc=78827810"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_assembling.css?crc=419587429" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_assembling.css?crc=4193934177" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
@@ -40,10 +40,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <p>&nbsp;</p>
        </div>
       </div>
-      <a class="nonblock nontext grpelem shared_content" id="u102" href="index.html" data-content-guid="u102_content"><!-- content --></a>
-      <div class="grpelem shared_content" id="u128" data-content-guid="u128_content"><!-- content --></div>
-      <div class="grpelem shared_content" id="u140" data-content-guid="u140_content"><!-- content --></div>
-      <div class="grpelem shared_content" id="u152" data-content-guid="u152_content"><!-- content --></div>
+      <a class="nonblock nontext museBGSize grpelem shared_content" id="u102" href="index.html" data-content-guid="u102_content"><!-- content --></a>
+      <div class="museBGSize grpelem shared_content" id="u128" data-content-guid="u128_content"><!-- content --></div>
+      <div class="museBGSize grpelem shared_content" id="u140" data-content-guid="u140_content"><!-- content --></div>
+      <div class="museBGSize grpelem shared_content" id="u152" data-content-guid="u152_content"><!-- content --></div>
       <div class="clearfix grpelem shared_content" id="u164-6" data-content-guid="u164-6_content"><!-- content -->
        <p id="u164-2">Понедельник - Пятница</p>
        <p id="u164-4">09:00-18:00</p>
@@ -84,10 +84,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p>&nbsp;</p>
       <h1 id="u14480-3">Монтаж и ремонт инженерных коммуникаций</h1>
      </div>
-     <div class="clearfix colelem shared_content" id="u71343" data-content-guid="u71343_content1"><!-- group -->
-      <div class="shadow grpelem shared_content" id="u73909" data-content-guid="u73909_content"><!-- content --></div>
-      <div class="clearfix grpelem shared_content" id="u14483-40" data-content-guid="u14483-40_content"><!-- content -->
-       <p>&nbsp;</p>
+     <div class="clearfix colelem shared_content" id="u71343" data-content-guid="u71343_content"><!-- group -->
+      <div class="shadow grpelem" id="u73909"><!-- content --></div>
+      <div class="clearfix grpelem" id="u14483-40"><!-- content -->
+       <p id="u14483">&nbsp;</p>
        <p id="u14483-3">Группа компаний «Эталон» осуществляет монтаж и ремонт инженерных сетей и систем зданий и сооружений.</p>
        <p id="u14483-4">&nbsp;</p>
        <p id="u14483-7"><span id="u14483-5">Инженерные сети и коммуникации</span> – это системы теплоснабжения, водопровода и канализации, электрические сети - все что необходимо для комфортного обитания человека.</p>
@@ -105,45 +105,45 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <div class="clearfix colelem shared_content" id="u71354" data-content-guid="u71354_content"><!-- column -->
       <div class="clearfix colelem" id="pu73947"><!-- group -->
-       <div class="shadow grpelem shared_content" id="u73947" data-content-guid="u73947_content"><!-- content --></div>
-       <div class="clearfix grpelem shared_content" id="u14489-5" data-content-guid="u14489-5_content"><!-- content -->
+       <div class="shadow grpelem" id="u73947"><!-- content --></div>
+       <div class="clearfix grpelem" id="u14489-5"><!-- content -->
         <p>&nbsp;</p>
         <p id="u14489-3">Комплекс работ по монтажу включает следующие этапы:</p>
        </div>
       </div>
-      <div class="clearfix colelem shared_content" id="pu74001" data-content-guid="pu74001_content"><!-- group -->
+      <div class="clearfix colelem" id="pu74001"><!-- group -->
        <div class="shadow grpelem" id="u74001"><!-- content --></div>
        <div class="clearfix grpelem" id="u74466-7"><!-- content -->
         <p id="u74466">&nbsp;</p>
-        <p class="ts"><a class="nonblock" href="project.html"><span id="u74466-2">Проект.</span></a> Монтаж инженерных систем начинается с проекта. Даже если имеется утвержденный готовый проект с рабочими чертежами и спецификациями, специалисты Нашей компании тщательно анализируют предложенные технические решения проекта и приступают к производству работ после окончательного согласования с заказчиком, расставив все точки над “i”. Такая практика помогает избежать возможных нестыковок между системами или технических упущений на этапе рабочей документации, сэкономить время и деньги заказчику при реализации проекта.</p>
+        <p class="ts" id="u74466-5"><a class="nonblock" href="project.html"><span id="u74466-2">Проект.</span></a> Монтаж инженерных систем начинается с проекта. Даже если имеется утвержденный готовый проект с рабочими чертежами и спецификациями, специалисты Нашей компании тщательно анализируют предложенные технические решения проекта и приступают к производству работ после окончательного согласования с заказчиком, расставив все точки над “i”. Такая практика помогает избежать возможных нестыковок между системами или технических упущений на этапе рабочей документации, сэкономить время и деньги заказчику при реализации проекта.</p>
        </div>
       </div>
-      <div class="clearfix colelem shared_content" id="pu74028" data-content-guid="pu74028_content"><!-- group -->
+      <div class="clearfix colelem" id="pu74028"><!-- group -->
        <div class="shadow grpelem" id="u74028"><!-- content --></div>
        <div class="clearfix grpelem" id="u74477-6"><!-- content -->
-        <p>&nbsp;</p>
-        <p><span id="u74477-2">Комплектация.</span> Мы комплектуем объект качественным оборудованием и материалами согласно спецификации, быстро и гибко. Наши сметы на материалы ниже рыночных цен за счет долгосрочного сотрудничества с основными поставщиками.</p>
+        <p id="u74477">&nbsp;</p>
+        <p id="u74477-4"><span id="u74477-2">Комплектация.</span> Мы комплектуем объект качественным оборудованием и материалами согласно спецификации, быстро и гибко. Наши сметы на материалы ниже рыночных цен за счет долгосрочного сотрудничества с основными поставщиками.</p>
        </div>
       </div>
-      <div class="clearfix colelem shared_content" id="pu74055" data-content-guid="pu74055_content"><!-- group -->
+      <div class="clearfix colelem" id="pu74055"><!-- group -->
        <div class="shadow grpelem" id="u74055"><!-- content --></div>
        <div class="clearfix grpelem" id="u74488-6"><!-- content -->
-        <p>&nbsp;</p>
-        <p><span id="u74488-2">Монтаж.</span> Собственная современная материально-техническая база и квалифицированные опытные трудовые ресурсы являются основой для профессионального и качественного исполнения работ по монтажу инженерных систем. Мы выполняем работы только согласно действующим нормам и правилам.</p>
+        <p id="u74488">&nbsp;</p>
+        <p id="u74488-4"><span id="u74488-2">Монтаж.</span> Собственная современная материально-техническая база и квалифицированные опытные трудовые ресурсы являются основой для профессионального и качественного исполнения работ по монтажу инженерных систем. Мы выполняем работы только согласно действующим нормам и правилам.</p>
        </div>
       </div>
-      <div class="clearfix colelem shared_content" id="pu74082" data-content-guid="pu74082_content"><!-- group -->
+      <div class="clearfix colelem" id="pu74082"><!-- group -->
        <div class="shadow grpelem" id="u74082"><!-- content --></div>
        <div class="clearfix grpelem" id="u74510-6"><!-- content -->
-        <p>&nbsp;</p>
-        <p><span id="u74510-2">Пусконаладка.</span> На заключительном этапе монтажа, специалисты компании осуществляют пусконаладку инженерных систем. Для заказчика этот этап служит залогом долговечности и исправности инженерных систем при эксплуатации.</p>
+        <p id="u74510">&nbsp;</p>
+        <p id="u74510-4"><span id="u74510-2">Пусконаладка.</span> На заключительном этапе монтажа, специалисты компании осуществляют пусконаладку инженерных систем. Для заказчика этот этап служит залогом долговечности и исправности инженерных систем при эксплуатации.</p>
        </div>
       </div>
-      <div class="clearfix colelem shared_content" id="pu74109" data-content-guid="pu74109_content"><!-- group -->
+      <div class="clearfix colelem" id="pu74109"><!-- group -->
        <div class="shadow grpelem" id="u74109"><!-- content --></div>
        <div class="clearfix grpelem" id="u74499-6"><!-- content -->
-        <p>&nbsp;</p>
-        <p><span id="u74499-2">Сдача системы в эксплуатацию.</span> Важным моментом не только завершения монтажных работ, но и процесса производства работ, является документационное сопровождение. Своевременное оформление необходимых актов, паспортов, технических инструкций на оборудование, наличие соответствующих лицензий и допусков исполнителей, это тот сервис, который наша компания предоставляет заказчику.</p>
+        <p id="u74499">&nbsp;</p>
+        <p id="u74499-4"><span id="u74499-2">Сдача системы в эксплуатацию.</span> Важным моментом не только завершения монтажных работ, но и процесса производства работ, является документационное сопровождение. Своевременное оформление необходимых актов, паспортов, технических инструкций на оборудование, наличие соответствующих лицензий и допусков исполнителей, это тот сервис, который наша компания предоставляет заказчику.</p>
        </div>
       </div>
      </div>
@@ -163,9 +163,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <p><span id="u14501-2">Совет:</span> <span id="u14501-4">Монтаж любой инженерной системы – это комплекс работ, а не одна операция. Не тратьте время на сравнение единичных цен в интернете, обратитесь к специалистам за расчетом.</span></p>
       </div>
      </div>
-     <div class="clearfix colelem shared_content" id="u71387" data-content-guid="u71387_content1"><!-- group -->
-      <div class="shadow grpelem shared_content" id="u74217" data-content-guid="u74217_content"><!-- content --></div>
-      <div class="clearfix grpelem shared_content" id="u14477-11" data-content-guid="u14477-11_content"><!-- content -->
+     <div class="clearfix colelem shared_content" id="u71387" data-content-guid="u71387_content"><!-- group -->
+      <div class="shadow grpelem" id="u74217"><!-- content --></div>
+      <div class="clearfix grpelem" id="u14477-11"><!-- content -->
        <p>&nbsp;</p>
        <p id="u14477-4"><span id="u14477-2">Профессионально – не значит дорого.</span></p>
        <p>Просто сформулируйте задачу так, как она видится Вам. Наш специалист задаст уточняющие вопросы, и Мы совместно разработаем техническое задание. Чтобы предусмотреть все нюансы инженер произведет осмотр объекта и сделает «привязку» по месту для деталировки задания.</p>
@@ -199,7 +199,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </nav>
-    <div class="verticalspacer" data-offset-top="1245" data-content-above-spacer="1244" data-content-below-spacer="87"></div>
+    <div class="verticalspacer" data-offset-top="1246" data-content-above-spacer="1245" data-content-below-spacer="87"></div>
     <div class="browser_width grpelem shared_content" id="u6612-bw" data-content-guid="u6612-bw_content">
      <div id="u6612"><!-- group -->
       <div class="clearfix" id="u6612_align_to_page">
@@ -248,11 +248,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u14480-5_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71354_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71365_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71376_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content"><!-- placeholder node --></span>
     </div>
     <nav class="MenuBar clearfix temp_no_id" data-orig-id="menuu10044"><!-- vertical box -->
      <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u10045"><!-- horizontal box -->
@@ -311,11 +311,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u14480-5_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71354_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71365_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71376_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content"><!-- placeholder node --></span>
     </div>
     <nav class="MenuBar clearfix temp_no_id" data-orig-id="menuu10044"><!-- vertical box -->
      <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u10045"><!-- horizontal box -->
@@ -342,7 +342,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </nav>
-    <div class="verticalspacer" data-offset-top="1314" data-content-above-spacer="1313" data-content-below-spacer="87"></div>
+    <div class="verticalspacer" data-offset-top="1315" data-content-above-spacer="1314" data-content-below-spacer="87"></div>
     <span class="browser_width grpelem placeholder" data-placeholder-for="u6612-bw_content"><!-- placeholder node --></span>
    </div>
   </div>
@@ -351,10 +351,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu29450-3"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu29450-3"><!-- group -->
       <span class="browser_width grpelem placeholder" data-placeholder-for="u29450-3-bw_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext grpelem placeholder" data-placeholder-for="u102_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u128_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u140_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u152_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u102_content"><!-- placeholder node --></span>
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u128_content"><!-- placeholder node --></span>
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u140_content"><!-- placeholder node --></span>
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u152_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u164-6_content"><!-- placeholder node --></span>
       <span class="ts clearfix grpelem placeholder" data-placeholder-for="u168-11_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u172-4_content"><!-- placeholder node --></span>
@@ -383,13 +383,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u14480-5_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71354_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71365_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71376_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content"><!-- placeholder node --></span>
     </div>
-    <div class="verticalspacer" data-offset-top="1286" data-content-above-spacer="1286" data-content-below-spacer="88"></div>
+    <div class="verticalspacer" data-offset-top="1287" data-content-above-spacer="1287" data-content-below-spacer="88"></div>
     <span class="browser_width grpelem placeholder" data-placeholder-for="u6612-bw_content"><!-- placeholder node --></span>
    </div>
   </div>
@@ -398,10 +398,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu29450-3"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu29450-3"><!-- group -->
       <span class="browser_width grpelem placeholder" data-placeholder-for="u29450-3-bw_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext grpelem placeholder" data-placeholder-for="u102_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u128_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u140_content"><!-- placeholder node --></span>
-      <span class="grpelem placeholder" data-placeholder-for="u152_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u102_content"><!-- placeholder node --></span>
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u128_content"><!-- placeholder node --></span>
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u140_content"><!-- placeholder node --></span>
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u152_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u164-6_content"><!-- placeholder node --></span>
       <span class="ts clearfix grpelem placeholder" data-placeholder-for="u168-11_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u172-4_content"><!-- placeholder node --></span>
@@ -430,11 +430,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u14480-5_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71354_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71365_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71376_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content"><!-- placeholder node --></span>
     </div>
     <nav class="MenuBar clearfix temp_no_id" data-orig-id="menuu10044"><!-- vertical box -->
      <div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u10045"><!-- horizontal box -->
@@ -493,13 +493,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u14480-5_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71354_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71365_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71376_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content"><!-- placeholder node --></span>
     </div>
-    <div class="verticalspacer" data-offset-top="1589" data-content-above-spacer="1588" data-content-below-spacer="87"></div>
+    <div class="verticalspacer" data-offset-top="1590" data-content-above-spacer="1589" data-content-below-spacer="87"></div>
     <span class="browser_width grpelem placeholder" data-placeholder-for="u6612-bw_content"><!-- placeholder node --></span>
    </div>
   </div>
@@ -531,24 +531,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u14480-5_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content1"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u71354" data-content-guid="u71354_content1"><!-- column -->
-      <div class="clearfix colelem temp_no_id" data-orig-id="pu73947"><!-- group -->
-       <span class="shadow grpelem placeholder" data-placeholder-for="u73947_content"><!-- placeholder node --></span>
-       <div class="shadow grpelem" id="u73974"><!-- content --></div>
-       <span class="clearfix grpelem placeholder" data-placeholder-for="u14489-5_content"><!-- placeholder node --></span>
-      </div>
-      <span class="clearfix colelem placeholder" data-placeholder-for="pu74001_content"><!-- placeholder node --></span>
-      <span class="clearfix colelem placeholder" data-placeholder-for="pu74028_content"><!-- placeholder node --></span>
-      <span class="clearfix colelem placeholder" data-placeholder-for="pu74055_content"><!-- placeholder node --></span>
-      <span class="clearfix colelem placeholder" data-placeholder-for="pu74082_content"><!-- placeholder node --></span>
-      <span class="clearfix colelem placeholder" data-placeholder-for="pu74109_content"><!-- placeholder node --></span>
-     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71354_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71365_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71376_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content"><!-- placeholder node --></span>
     </div>
-    <div class="verticalspacer" data-offset-top="2005" data-content-above-spacer="2004" data-content-below-spacer="87"></div>
+    <div class="verticalspacer" data-offset-top="2004" data-content-above-spacer="2003" data-content-below-spacer="87"></div>
     <span class="browser_width grpelem placeholder" data-placeholder-for="u6612-bw_content"><!-- placeholder node --></span>
    </div>
   </div>
@@ -557,7 +546,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu29450-3"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu29450-3"><!-- group -->
       <span class="browser_width grpelem placeholder" data-placeholder-for="u29450-3-bw_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext grpelem placeholder" data-placeholder-for="u102_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u102_content"><!-- placeholder node --></span>
      </div>
      <div class="browser_width colelem temp_no_id" data-orig-id="u182-bw">
       <div class="temp_no_id" data-orig-id="u182"><!-- group -->
@@ -583,21 +572,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u14480-5_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u71343" data-content-guid="u71343_content"><!-- group -->
-      <span class="shadow grpelem placeholder" data-placeholder-for="u73909_content"><!-- placeholder node --></span>
-      <div class="shadow grpelem" id="u73920"><!-- content --></div>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u14483-40_content"><!-- placeholder node --></span>
-     </div>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71354_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71354_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71365_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71376_content"><!-- placeholder node --></span>
-     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="u71387" data-content-guid="u71387_content"><!-- group -->
-      <span class="shadow grpelem placeholder" data-placeholder-for="u74217_content"><!-- placeholder node --></span>
-      <div class="shadow grpelem" id="u74244"><!-- content --></div>
-      <span class="clearfix grpelem placeholder" data-placeholder-for="u14477-11_content"><!-- placeholder node --></span>
-     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content"><!-- placeholder node --></span>
     </div>
-    <div class="verticalspacer" data-offset-top="2924" data-content-above-spacer="2923" data-content-below-spacer="87"></div>
+    <div class="verticalspacer" data-offset-top="2908" data-content-above-spacer="2907" data-content-below-spacer="87"></div>
     <span class="browser_width grpelem placeholder" data-placeholder-for="u6612-bw_content"><!-- placeholder node --></span>
    </div>
   </div>
@@ -606,7 +587,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu29450-3"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu29450-3"><!-- group -->
       <span class="browser_width grpelem placeholder" data-placeholder-for="u29450-3-bw_content"><!-- placeholder node --></span>
-      <span class="nonblock nontext grpelem placeholder" data-placeholder-for="u102_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u102_content"><!-- placeholder node --></span>
      </div>
      <div class="browser_width colelem temp_no_id" data-orig-id="u182-bw">
       <div class="temp_no_id" data-orig-id="u182"><!-- group -->
@@ -633,12 +614,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u14480-5_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71343_content"><!-- placeholder node --></span>
-     <span class="clearfix colelem placeholder" data-placeholder-for="u71354_content1"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u71354_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71365_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71376_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u71387_content"><!-- placeholder node --></span>
     </div>
-    <div class="verticalspacer" data-offset-top="2920" data-content-above-spacer="2920" data-content-below-spacer="104"></div>
+    <div class="verticalspacer" data-offset-top="2903" data-content-above-spacer="2903" data-content-below-spacer="104"></div>
     <span class="browser_width grpelem placeholder" data-placeholder-for="u6612-bw_content"><!-- placeholder node --></span>
    </div>
   </div>
@@ -653,7 +634,7 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Некоторые файлы на сервере могут отсутствовать или быть некорректными. Очистите кэш-память браузера и повторите попытку. Если проблему не удается устранить, свяжитесь с разработчиками сайта.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize","jquery.musemenu","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
