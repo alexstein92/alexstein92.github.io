@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1585902606433">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etalon-nk.ru" resolutions="1x" timestamp="1585903062641">
   <folder name="css">
     <file name="site_global.css" crc="341319682"/>
     <file name="master_sch-a.css" crc="428828946" ref="assembling:services:vodosnab:teplosnab:itp:portfolio:index:project:contacts:company:avtomat:vnutr"/>
@@ -9,8 +9,8 @@
     <file name="nomq_services.css" crc="71118150" ref="services"/>
     <file name="vodosnab.css" crc="264661900" ref="vodosnab"/>
     <file name="nomq_vodosnab.css" crc="4266618380" ref="vodosnab"/>
-    <file name="teplosnab.css" crc="4265379340" ref="teplosnab"/>
-    <file name="nomq_teplosnab.css" crc="4283908930" ref="teplosnab"/>
+    <file name="teplosnab.css" crc="212632412" ref="teplosnab"/>
+    <file name="nomq_teplosnab.css" crc="3844336702" ref="teplosnab"/>
     <file name="itp.css" crc="177070870" ref="itp"/>
     <file name="nomq_itp.css" crc="173623520" ref="itp"/>
     <file name="portfolio.css" crc="328994036" ref="portfolio"/>
@@ -157,16 +157,6 @@
       <caption webpage="teplosnab" alt=""/>
     </file>
     <file name="fone_blue_128_70.jpg" crc="3773365552" ref="index:company:services:portfolio:contacts:assembling:itp:project:vnutr:teplosnab:vodosnab:avtomat">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="vodosnab" alt=""/>
       <caption webpage="vodosnab" alt=""/>
       <caption webpage="vodosnab" alt=""/>
@@ -177,46 +167,6 @@
       <caption webpage="vodosnab" alt=""/>
       <caption webpage="vodosnab" alt=""/>
       <caption webpage="vodosnab" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="project" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="itp" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
-      <caption webpage="company" alt=""/>
       <caption webpage="avtomat" alt=""/>
       <caption webpage="avtomat" alt=""/>
       <caption webpage="avtomat" alt=""/>
@@ -227,6 +177,56 @@
       <caption webpage="avtomat" alt=""/>
       <caption webpage="avtomat" alt=""/>
       <caption webpage="avtomat" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
       <caption webpage="vnutr" alt=""/>
       <caption webpage="vnutr" alt=""/>
       <caption webpage="vnutr" alt=""/>
@@ -247,26 +247,26 @@
       <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="itp" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
+      <caption webpage="company" alt=""/>
       <caption webpage="assembling" alt=""/>
       <caption webpage="assembling" alt=""/>
       <caption webpage="assembling" alt=""/>
@@ -501,9 +501,6 @@
     <file name="dsc07983-u104728-fr2.jpg" crc="3206782" ref="teplosnab"/>
     <file name="dsc07983-u104728-fr3.jpg" crc="3953614011" ref="teplosnab"/>
     <file name="sch-a-favicon.ico" crc="3995128904" ref="index:teplosnab"/>
-    <file name="20191004_143726-crop-u111267.jpg" crc="106180071" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-    </file>
     <file name="20191010_111250-crop-u111395.jpg" crc="440996519" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
@@ -516,53 +513,20 @@
       <caption webpage="teplosnab" alt=""/>
       <caption webpage="teplosnab" alt=""/>
     </file>
-    <file name="20191004_132809-crop-u111752.jpg" crc="256237970" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-    </file>
-    <file name="20191004_143726365x510.jpg" crc="3821020166" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-    </file>
     <file name="20191010_111250383x510.jpg" crc="4290592188" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
-    <file name="20191004_132809383x511.jpg" crc="52974791" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-    </file>
-    <file name="20191004_143726383x510.jpg" crc="3821020166" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-    </file>
     <file name="20191010_111250382x509.jpg" crc="4039879734" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-    </file>
-    <file name="20191004_132809382x509.jpg" crc="401155769" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
     <file name="20191010_111250382x510.jpg" crc="4039879734" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
       <caption webpage="teplosnab" alt=""/>
     </file>
-    <file name="20191004_132809382x510.jpg" crc="401155769" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-    </file>
-    <file name="20191004_132809383x510.jpg" crc="52974791" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-      <caption webpage="teplosnab" alt=""/>
-    </file>
-    <file name="20191004_143726382x510.jpg" crc="3844226686" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-    </file>
     <file name="20191010_111250383x511.jpg" crc="4281647667" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
-    <file name="20191004_143726327x435.jpg" crc="471111281" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-    </file>
     <file name="20191010_111250327x436.jpg" crc="491046469" seo="true" ref="teplosnab">
-      <caption webpage="teplosnab" alt=""/>
-    </file>
-    <file name="20191004_132809327x437.jpg" crc="88269348" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
     <file name="dsc07654439x330.jpg" crc="9978456" seo="true" ref="teplosnab">
@@ -577,7 +541,7 @@
     <file name="dsc07894439x330.jpg" crc="4145518175" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
-    <file name="20191004_143726246x328.jpg" crc="93483936" seo="true" ref="teplosnab">
+    <file name="20191004_143726246x328.jpg" crc="3868827213" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
     <file name="20191010_111250247x330.jpg" crc="4102139018" seo="true" ref="teplosnab">
@@ -586,7 +550,7 @@
     <file name="20191010_102213439x330.jpg" crc="4171708416" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
-    <file name="20191004_132809246x328.jpg" crc="3999335182" seo="true" ref="teplosnab">
+    <file name="20191004_132809246x328.jpg" crc="3817404074" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
     <file name="dsc07654281x211.jpg" crc="389282674" seo="true" ref="teplosnab">
@@ -601,7 +565,7 @@
     <file name="dsc07894281x211.jpg" crc="4204229533" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
-    <file name="20191004_143726159x212.jpg" crc="92842158" seo="true" ref="teplosnab">
+    <file name="20191004_143726159x212.jpg" crc="418422127" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
     <file name="20191010_111250158x211.jpg" crc="236915773" seo="true" ref="teplosnab">
@@ -610,7 +574,7 @@
     <file name="20191010_102213281x211.jpg" crc="232439186" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
-    <file name="20191004_132809159x211.jpg" crc="288020009" seo="true" ref="teplosnab">
+    <file name="20191004_132809159x211.jpg" crc="3997174987" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
       <caption webpage="teplosnab" alt=""/>
     </file>
@@ -626,13 +590,31 @@
     <file name="dsc07894280x210.jpg" crc="3955084275" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
-    <file name="20191004_143726159x211.jpg" crc="4172375300" seo="true" ref="teplosnab">
+    <file name="20191004_143726159x211.jpg" crc="3903128635" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
     <file name="20191010_111250159x211.jpg" crc="236915773" seo="true" ref="teplosnab">
       <caption webpage="teplosnab" alt=""/>
     </file>
     <file name="20191010_102213282x211.jpg" crc="232439186" seo="true" ref="teplosnab">
+      <caption webpage="teplosnab" alt=""/>
+    </file>
+    <file name="20191004_143726.jpg" crc="3780045808" seo="true" ref="teplosnab">
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+    </file>
+    <file name="20191004_132809.jpg" crc="214735348" seo="true" ref="teplosnab">
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
+      <caption webpage="teplosnab" alt=""/>
       <caption webpage="teplosnab" alt=""/>
     </file>
   </folder>
@@ -645,7 +627,7 @@
   <file name="itp.html" crc="12686631" seo="true" mt="1585896859325" redirect="true"/>
   <file name="project.html" crc="1304990" seo="true" mt="1585896611738" redirect="true"/>
   <file name="vnutr.html" crc="3106092" seo="true" mt="1585896611738" redirect="true"/>
-  <file name="teplosnab.html" crc="3775444375" seo="true" mt="1585902585905" redirect="true"/>
+  <file name="teplosnab.html" crc="4120898119" seo="true" mt="1585903046376" redirect="true"/>
   <file name="vodosnab.html" crc="404282944" seo="true" mt="1585896611738" redirect="true"/>
   <file name="avtomat.html" crc="4010392463" seo="true" mt="1585896611738" redirect="true"/>
 </manifest>
