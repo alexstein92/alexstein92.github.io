@@ -31,7 +31,7 @@ $form = array(
 		'to' => 'etalon_nk@mail.ru'
 	),
 	'recaptcha2' => array(
-		'private_key' => '6LdL390UAAAAAEp5WNtaLgzv8tuylOw-TWBOOPu_'
+		'private_key' => 'null'
 	),
 	'fields' => array(
 		'custom_U13387' => array(
